@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarProgram1", "GrammarProgram1\GrammarProgram1.csproj", "{75C7D110-A6F7-40A6-9434-A04CD7A1062A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSGClass", "PSGClass\PSGClass.csproj", "{B3B8853B-7BC0-4808-8EFF-43E6A1241A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialObjects", "SpecialObjects\SpecialObjects.csproj", "{9332B1AF-DB48-4723-9081-5E5FC7129961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C7D110-A6F7-40A6-9434-A04CD7A1062A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C7D110-A6F7-40A6-9434-A04CD7A1062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C7D110-A6F7-40A6-9434-A04CD7A1062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C7D110-A6F7-40A6-9434-A04CD7A1062A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B8853B-7BC0-4808-8EFF-43E6A1241A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B8853B-7BC0-4808-8EFF-43E6A1241A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B8853B-7BC0-4808-8EFF-43E6A1241A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B8853B-7BC0-4808-8EFF-43E6A1241A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9332B1AF-DB48-4723-9081-5E5FC7129961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9332B1AF-DB48-4723-9081-5E5FC7129961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9332B1AF-DB48-4723-9081-5E5FC7129961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9332B1AF-DB48-4723-9081-5E5FC7129961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\bin\Debug\PSGClass.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\bin\Debug\PSGClass.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\bin\Debug\SpecialObjects.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\bin\Debug\SpecialObjects.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\obj\Debug\PSGClass.csprojResolveAssemblyReference.cache
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\obj\Debug\PSGClass.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\PSGClass\obj\Debug\PSGClass.pdb

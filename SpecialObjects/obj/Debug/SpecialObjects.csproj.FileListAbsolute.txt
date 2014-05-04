@@ -1,0 +1,4 @@
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\SpecialObjects\bin\Debug\SpecialObjects.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\SpecialObjects\bin\Debug\SpecialObjects.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\SpecialObjects\obj\Debug\SpecialObjects.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\SpecialObjects\obj\Debug\SpecialObjects.pdb

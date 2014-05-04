@@ -1,0 +1,10 @@
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\GrammarProgram1.exe.config
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\GrammarProgram1.exe
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\GrammarProgram1.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\PSGClass.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\SpecialObjects.dll
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\PSGClass.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\bin\Debug\SpecialObjects.pdb
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\obj\Debug\GrammarProgram1.csprojResolveAssemblyReference.cache
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\obj\Debug\GrammarProgram1.exe
+C:\Users\agabriel\Documents\Visual Studio 2012\Projects\GrammarProgram1\GrammarProgram1\obj\Debug\GrammarProgram1.pdb
